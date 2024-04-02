@@ -1,0 +1,38 @@
+import = ["~/.config/alacritty/nightfox.toml"]
+
+[font]
+size = 18
+
+[font.bold]
+family = "BitstromWera Nerd Font"
+style = "Bold"
+
+[font.bold_italic]
+family = "BitstromWera Nerd Font"
+style = "Bold Italic"
+
+[font.italic]
+family = "BitstromWera Nerd Font"
+style = "Italic"
+
+[font.normal]
+family = "BitstromWera Nerd Font"
+style = "Regular"
+
+[scrolling]
+history = 500
+multiplier = 3
+
+[window]
+decorations = "Full"
+dynamic_padding = true
+opacity = 0.7
+startup_mode = "Windowed"
+
+[window.dimensions]
+columns = 90
+lines = 30
+
+[window.padding]
+x = 10
+y = 10
