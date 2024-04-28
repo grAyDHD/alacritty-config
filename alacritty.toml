@@ -1,7 +1,7 @@
 import = ["~/.config/alacritty/nightfox.toml"]
 
 [font]
-size = 18
+size = 14 
 
 [font.bold]
 family = "BitstromWera Nerd Font"
